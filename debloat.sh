@@ -43,6 +43,11 @@ remove_disable_app() {
 APPS_FILE=${1:-apps.yml}
 
 main() {
+  if ! command -v adb &> /dev/null; then
+      echo "Error: adb is not installed or not in PATH."
+      exit 1
+  fi
+
   if [ ! -f $APPS_FILE ]; then
       echo "$APPS_FILE file not found."
       exit 1

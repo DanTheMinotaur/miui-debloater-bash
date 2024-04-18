@@ -80,7 +80,7 @@ com.miui.micloudsync: Mi Cloud
 com.miui.miservice: Services & feedback
 com.miui.mishare.connectivity: Mi Share
 com.miui.miwallpaper: Mi Wallpaper
-com.miui.msa.global: MSA
+com.miui.msa.global: Main System Ads
 com.miui.newhome: Content Service
 com.miui.nextpay: NextPay
 com.miui.notes: Notes
@@ -109,13 +109,13 @@ com.netflix.partner.activation: PartnerNetflixActivation
 com.qisiemoji.inputmethod: Kika Keyboard
 com.sohu.inputmethod.sogou.xiaomi: Sogou Keyboard
 com.tencent.mtt: QQ Browser
-com.tencent.soter.soterserver: SoterService
+com.tencent.soter.soterserver: WeChat Pay biometric
 com.xiaomi.ab: MAB
 com.xiaomi.calendar: Mi Calendar
 com.xiaomi.discover: System Apps Updater
 com.xiaomi.gameboosterglobal: Game Turbo
 com.xiaomi.glgm: Games
-com.xiaomi.joyose: Joyose
+com.xiaomi.joyose: Joyose Analytics and advertising
 com.xiaomi.jr: Mi Financial
 com.xiaomi.mi_connect_service: MiConnectService
 com.xiaomi.midrop: Mi Drop
@@ -127,5 +127,14 @@ com.xiaomi.powerchecker: Power Detector
 com.xiaomi.scanner: Scanner
 com.xiaomi.simactivate.service: Xiaomi SIM Activate Service
 com.xiaomi.vipaccount: Xiaomi VIP Account
-com.xiaomi.xmsf: Xiaomi Service Framework
-com.xiaomi.xmsfkeeper: Xiaomi Service Framework
+# com.xiaomi.xmsf: Xiaomi Service Framework # Remove this at your own risk 
+com.xiaomi.xmsfkeeper: Xiaomi Service Framework Logger
+com.mi.healthglobal: Heart Monitor
+com.miui.audioeffect: AudioEffect from Xiaomi
+com.miui.cit: Hardware tests
+de.telekom.tsc: Displays adds in notification panel 
+com.android.traceur: System Tracing
+org.ifaa.aidl.manager: Provides biometric authentication for Alipay
+com.opera.preinstall: Opera Preinstall Data
+cn.wps.xiaomi.abroad.lite: Mi Doc viewer
+com.mi.global.shop: Xiaomi app store
